@@ -1,9 +1,12 @@
 {
     "image": "image.png",
+    "baner": "",
     "name": "Volume Fixer",
     "author": "villenure",
     "description": "A maximum volume fixer",
-    "version": "1.0",
+    "version": "1.0.1",
     "css":"style.css",
-    "script": "script.js"
+    "script": "script.js",
+    "type": "script",
+    "tag": "setting"
 }
